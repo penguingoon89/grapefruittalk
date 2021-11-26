@@ -1,4 +1,3 @@
-
 // 기본값 설정을 하지 않은 height부터 받는 걸로
 @mixin set-box-size($height, $width: 100%, $border-radius: 0){
   height: $height;
